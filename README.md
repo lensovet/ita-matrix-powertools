@@ -36,6 +36,15 @@ You can also create a [Bookmarklet](https://support.mozilla.org/en-US/kb/bookmar
 
 ### Latest major changes ###
 
+##### Version 0.34 #####
+2019-10-16 Edited by wylek (Fix farefreaks disable setting; add AA ES_ES; add Qantas deeplink)
+
+##### Version 0.33 #####
+2019-10-16 Edited by TechnoTourist (Air Canada promo code input)
+
+##### Version 0.32 #####
+2019-08-06 Edited by canadiancow (Pass fare basis to Air Canada)
+
 ##### Version 0.26 #####
 2017-05-29 Edited by Dead-Flag (added Skyscanner)
 
